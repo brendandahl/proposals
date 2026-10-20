@@ -103,7 +103,7 @@ Please see [Contributing to WebAssembly](https://github.com/WebAssembly/design/b
 [js-primitive-builtins]: https://github.com/WebAssembly/js-primitive-builtins
 [acquire-release-atomics]: https://github.com/WebAssembly/acquire-release-atomics
 [multibyte-array-access]: https://github.com/WebAssembly/multibyte-array-access
-[fp16]: https://github.com/WebAssembly/half-precision
+[fp16]: https://github.com/WebAssembly/fp16
 [type-imports]: https://github.com/WebAssembly/proposal-type-imports
 [component-model]: https://github.com/WebAssembly/component-model
 [wasm_c_api]: https://github.com/WebAssembly/wasm-c-api
